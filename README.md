@@ -12,9 +12,9 @@ Desde 2019 ando en este mundo del emprendimiento, metiéndole corazón a cada pr
 <br>
 Me encanta enfrentar retos y mantenerme al tanto de las últimas tendencias en tecnología.
 
-* 🌍  Estoy en Caracas, Venezuela.
-* 🧠  Actualmente estoy aprendiendo [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)].
-* 🎧  I'm open to collaborating on open source projects
+* 🌍  Vivo en Caracas, Venezuela.
+* 🧠  Actualmente estoy aprendiendo <b>Java</b>.
+* 🎧  Amante de la [música](https://open.spotify.com/user/3132bp4xpqx4wuzpg7ld7okws2ay?si=40997f1771924050).
 
 <div align = "center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakBector2002&theme=dark&layout=compact" /></p><p><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><!--<img src=https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif width="105"><img src=https://media4.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif width="105">--></p>
