@@ -12,6 +12,7 @@ Desde 2019 ando en este mundo del emprendimiento, metiéndole corazón a cada pr
 <br>
 Me encanta enfrentar retos y mantenerme al tanto de las últimas tendencias en tecnología.
 <br>
+
 * 🌍  Vivo en Caracas, Venezuela.
 * 🎧  Me fascina escuchar [música](https://open.spotify.com/user/3132bp4xpqx4wuzpg7ld7okws2ay?si=40997f1771924050).
 * 🧠  Actualmente estoy aprendiendo <b>Java</b>.
