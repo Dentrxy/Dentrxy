@@ -2,7 +2,7 @@
   <img align="center" src= "https://i.imgur.com/dVRl12c.png" height="200" />
  </div>
 <br>
-
+<div align = "center">
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> <b> ¡Hola!</b>
 
 🔭 I’m currently working on a COVID prediction model with my brother Kartikeya Bector
