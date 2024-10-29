@@ -3,6 +3,7 @@
  </div>
 <br>
 <div align = "center">
+<p></p>
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> <b> ¡Hola!</b>
 
 🔭 I’m currently working on a COVID prediction model with my brother Kartikeya Bector
