@@ -1,6 +1,5 @@
 <div align = "center">
-  <img align="center" src= "https://i.imgur.com/dVRl12c.png" />
-  <img src=https://github.com/VinayakBector2002/VinayakBector2002/blob/master/Hnet-image%20(3).gif width="667px">
+  <img align="center" src= "https://i.imgur.com/dVRl12c.png" height="200" />
  </div>
  <div align = "center"> 
 </div>
