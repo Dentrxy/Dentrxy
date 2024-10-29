@@ -22,7 +22,3 @@
 <p></p>
 <div align = "center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakBector2002&theme=dark&layout=compact" /></p><p><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><!--<img src=https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif width="105"><img src=https://media4.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif width="105">--></p>
-  
-## :headphones: Spotify
-
-[![🏛️](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3e8noLd3EeN4aJDxFyX62C?si=0cc164ba8a684adc) [![🏎️](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6gKeRl5To4BSynAhttAQB9?si=5da54e7d8049418f) [![🌒](https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1jPxJCCu1IuJijlnlgW0BO?si=81266ebf105342be)
