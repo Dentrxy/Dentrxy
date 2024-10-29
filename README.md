@@ -6,7 +6,7 @@
 
 ## <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> <b> ¡Hola!</b>
  </div>
-Soy <b>Dentray</b>, un desarrollador web autodidacta de 23 años, apasionado por la tecnología y siempre con ganas de aprender cosas nuevas.
+Soy <b>Dentray</b>, un desarrollador web autodidacta de 23 años, apasionado por la tecnología y con ganas de aprender cosas nuevas.
 <br>
 Desde 2019 ando en este mundo del emprendimiento, metiéndole corazón a cada proyecto y buscando soluciones creativas y eficientes. 
 <br>
