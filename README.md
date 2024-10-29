@@ -1,15 +1,15 @@
 <div align = "center">
   <img align="center" src= "https://i.imgur.com/dVRl12c.png" height="200" />
  </div>
-
+<br>
 <div align = "center"> 
-### ¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> <b>¡Hola!</b>
 
-- 🔭 I’m currently working on a COVID prediction model with my brother Kartikeya Bector
-- 🌱 I’m currently learning: predictions using ML(python) and about cryptocurrency 
-- 👯 I’m looking to collaborate on making <a href ="https://vinayakbector2002.github.io/Zoom-Virtual-Backgrounds/"> Zoom Virtual Background website </a>
-- 🤔 I’m looking for help with <a href = "https://vinayakbector2002.github.io/"> MY WEBSITE! </a>
-- 💬 Ask me about Python! 🐍
+🔭 I’m currently working on a COVID prediction model with my brother Kartikeya Bector
+🌱 I’m currently learning: predictions using ML(python) and about cryptocurrency 
+👯 I’m looking to collaborate on making <a href ="https://vinayakbector2002.github.io/Zoom-Virtual-Backgrounds/"> Zoom Virtual Background website </a>
+🤔 I’m looking for help with <a href = "https://vinayakbector2002.github.io/"> MY WEBSITE! </a>
+💬 Ask me about Python! 🐍
 </div>
 <p></p>
 <div align = "center">
